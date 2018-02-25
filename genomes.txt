@@ -1,2 +1,2 @@
 genome hg38
-trackDb trackDb.txt
+trackDb https://raw.githubusercontent.com/dmanahan/UCSC_tracks/master/trackDb.txt
