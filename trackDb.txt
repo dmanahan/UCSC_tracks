@@ -1,0 +1,41 @@
+track SRR1951541
+bigDataUrl GSE67543/SRR1951541.bw
+shortLabel SRR1951541
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
+
+track SRR1951542
+bigDataUrl GSE67543/SRR1951542.bw
+shortLabel SRR1951542
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
+
+track SRR1951543
+bigDataUrl GSE67543/SRR1951543.bw
+shortLabel SRR1951543
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
+
+track SRR1951544
+bigDataUrl GSE67543/SRR1951544.bw
+shortLabel SRR1951544
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
+
+track SRR1951545
+bigDataUrl GSE67543/SRR1951545.bw
+shortLabel SRR1951545
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
+
+track SRR1951546
+bigDataUrl GSE67543/SRR1951546.bw
+shortLabel SRR1951546
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
+
+track SRR1951547
+bigDataUrl GSE67543/SRR1951547.bw
+shortLabel SRR1951547
+longLabel 1 of 7 replicates for GSE67543
+type bigWig
