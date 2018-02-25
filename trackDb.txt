@@ -1,41 +1,41 @@
 track SRR1951541
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951541.bw
+bigDataUrl https://de.cyverse.org/dl/d/B1B0A3BA-FF0D-4C38-A446-D2D365568855/SRR1951541.bw
 shortLabel SRR1951541
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951541
 type bigWig
 
 track SRR1951542
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951542.bw
+bigDataUrl https://de.cyverse.org/dl/d/4DB3AC02-4FC6-4F01-993D-D24DB6D74B78/SRR1951542.bw
 shortLabel SRR1951542
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951542
 type bigWig
 
 track SRR1951543
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951543.bw
+bigDataUrl https://de.cyverse.org/dl/d/BAE699D6-BCF8-4AF4-AFD3-F9E14E463304/SRR1951543.bw
 shortLabel SRR1951543
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951543
 type bigWig
 
 track SRR1951544
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951544.bw
+bigDataUrl https://de.cyverse.org/dl/d/61D1893A-09C2-48BA-96E2-30FD8DA66EA9/SRR1951544.bw
 shortLabel SRR1951544
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951544
 type bigWig
 
 track SRR1951545
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951545.bw
+bigDataUrl https://de.cyverse.org/dl/d/AB641A7F-B1D4-4876-95DC-9F9B5E9DDA89/SRR1951545.bw
 shortLabel SRR1951545
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951545
 type bigWig
 
 track SRR1951546
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951546.bw
+bigDataUrl https://de.cyverse.org/dl/d/5E95C4D2-9196-4CAA-B355-D66C52055623/SRR1951546.bw
 shortLabel SRR1951546
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951546
 type bigWig
 
 track SRR1951547
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/dmanahan/GSE67543/SRR1951547.bw
+bigDataUrl https://de.cyverse.org/dl/d/C69155EA-0D09-4492-A74E-EB2DEBF9735C/SRR1951547.bw
 shortLabel SRR1951547
-longLabel 1 of 7 replicates for GSE67543
+longLabel SRR1951547
 type bigWig
