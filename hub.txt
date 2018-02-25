@@ -1,5 +1,5 @@
 hub GSE67543_RNA-Seq
 shortLabel GSE67543_RNA-Seq
 longLabel GSE67543_RNA-Seq
-genomesFile genomes.txt
+genomesFile https://raw.githubusercontent.com/dmanahan/UCSC_tracks/master/genomes.txt
 email dmanahan@usc.edu
